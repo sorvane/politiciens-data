@@ -9,20 +9,225 @@
     "fonction": "Président du RN",
     "info": "Député européen, élu président en 2022"
   },
-  "Jean-Luc Mélenchon": {
-    "parti": "La France Insoumise",
+  "Sébastien Chenu": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Nord",
+    "info": "Vice-président de l'Assemblée nationale"
+  },
+  "Louis Aliot": {
+    "parti": "Rassemblement National",
+    "fonction": "Maire de Perpignan",
+    "info": "Vice-président du RN"
+  },
+  "Julien Odoul": {
+    "parti": "Rassemblement National",
+    "fonction": "Conseiller régional Bourgogne-Franche-Comté",
+    "info": "Porte-parole du RN"
+  },
+  "Philippe Olivier": {
+    "parti": "Rassemblement National",
+    "fonction": "Député européen",
+    "info": "Conseiller spécial de Marine Le Pen"
+  },
+  "Jean-Philippe Tanguy": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de la Somme",
+    "info": "Porte-parole du groupe RN à l'Assemblée"
+  },
+  "Laure Lavalette": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée du Var",
+    "info": "Secrétaire générale adjointe du RN"
+  },
+  "Julien Sanchez": {
+    "parti": "Rassemblement National",
+    "fonction": "Maire de Beaucaire",
+    "info": "Secrétaire départemental du Gard"
+  },
+  "Stéphane Ravier": {
+    "parti": "Rassemblement National",
+    "fonction": "Sénateur des Bouches-du-Rhône",
+    "info": "Ancien conseiller municipal de Marseille"
+  },
+  "Gilbert Collard": {
+    "parti": "Rassemblement National",
+    "fonction": "Député européen",
+    "info": "Ancien député du Gard"
+  },
+  "Bruno Gollnisch": {
+    "parti": "Rassemblement National",
+    "fonction": "Député européen",
+    "info": "Figure historique du FN"
+  },
+  "Wallerand de Saint-Just": {
+    "parti": "Rassemblement National",
+    "fonction": "Trésorier du RN",
+    "info": "Conseiller régional Île-de-France"
+  },
+  "Jean-François Jalkh": {
+    "parti": "Rassemblement National",
+    "fonction": "Vice-président du RN",
+    "info": "Avocat, ancien président par intérim"
+  },
+  "Gilles Pennelle": {
+    "parti": "Rassemblement National",
+    "fonction": "Trésorier adjoint du RN",
+    "info": "Conseiller régional Pays de la Loire"
+  },
+  "Thierry Mariani": {
+    "parti": "Rassemblement National",
+    "fonction": "Député européen",
+    "info": "Tête de liste RN PACA aux européennes 2019"
+  },
+  "Hélène Laporte": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée européenne",
+    "info": "Conseillère régionale Occitanie"
+  },
+  "Hervé Juvin": {
+    "parti": "Rassemblement National",
+    "fonction": "Député européen",
+    "info": "Essayiste, spécialiste des questions écologiques"
+  },
+  "André Rougier": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de l'Oise",
+    "info": "Membre du groupe RN à l'Assemblée"
+  },
+  "Edwige Diaz": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée de la Gironde",
+    "info": "Ancienne conseillère régionale"
+  },
+  "Roger Chudeau": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Loir-et-Cher",
+    "info": "Ancien inspecteur général de l'Éducation nationale"
+  },
+  "Thomas Ménagé": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Loiret",
+    "info": "Porte-parole du groupe RN"
+  },
+  "Emeline Guiraud": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée de Vaucluse",
+    "info": "Membre de la commission des Affaires sociales"
+  },
+  "Julien Rancoule": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de l'Aude",
+    "info": "Ancien conseiller régional Occitanie"
+  },
+  "Christophe Barthès": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de l'Hérault",
+    "info": "Membre du groupe RN"
+  },
+  "Michèle Martinez": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée des Bouches-du-Rhône",
+    "info": "Ancienne conseillère municipale de Marseille"
+  },
+  "Emmanuel Taché de la Pagerie": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de Meurthe-et-Moselle",
+    "info": "Membre du groupe RN"
+  },
+  "Sandrine Dogor-Such": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée de l'Aube",
+    "info": "Membre de la commission de la Défense"
+  },
+  "José Gonzalez": {
+    "parti": "Rassemblement National",
     "fonction": "Député des Bouches-du-Rhône",
-    "info": "Fondateur de LFI, candidat présidentielle 2022"
+    "info": "Ancien policier"
   },
-  "Emmanuel Macron": {
-    "parti": "Renaissance",
-    "fonction": "Président de la République",
-    "info": "Élu en 2017 et 2022, fondateur d'En Marche"
+  "François-Xavier Villain": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Doubs",
+    "info": "Membre du groupe RN"
   },
-  "Gabriel Attal": {
-    "parti": "Renaissance",
-    "fonction": "Premier ministre",
-    "info": "En fonction depuis janvier 2024, ancien ministre de l'Éducation"
+  "Pierrick Berteloot": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de l'Aisne",
+    "info": "Membre du groupe RN"
+  },
+  "Christophe Bentz": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Haut-Rhin",
+    "info": "Membre du groupe RN"
+  },
+  "Aurélien Lopez-Liguori": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Var",
+    "info": "Membre du groupe RN"
+  },
+  "Jocelyn Dessigny": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de l'Aisne",
+    "info": "Membre du groupe RN"
+  },
+  "Romain Baubry": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de l'Oise",
+    "info": "Membre du groupe RN"
+  },
+  "Alexandre Loubet": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Gard",
+    "info": "Membre du groupe RN"
+  },
+  "Mathilde Paris": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée de la Loire",
+    "info": "Membre du groupe RN"
+  },
+  "Kévin Pfeffer": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Haut-Rhin",
+    "info": "Membre du groupe RN"
+  },
+  "Lisette Pollet": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée du Pas-de-Calais",
+    "info": "Membre du groupe RN"
+  },
+  "Benoît Bordat": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de la Marne",
+    "info": "Membre du groupe RN"
+  },
+  "Françoise Gatel": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée du Var",
+    "info": "Membre du groupe RN"
+  },
+  "Bryan Masson": {
+    "parti": "Rassemblement National",
+    "fonction": "Député du Loiret",
+    "info": "Membre du groupe RN"
+  },
+  "Christelle D'Intorni": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée du Var",
+    "info": "Membre du groupe RN"
+  },
+  "Laurent Jacobelli": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de Moselle",
+    "info": "Porte-parole du RN"
+  },
+  "Michèle Victory": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée de l'Ardèche",
+    "info": "Membre du groupe RN"
+  },
+  "Jean-Louis Thiériot": {
+    "parti": "Rassemblement National",
+    "fonction": "Député de Seine-et-Marne",
+    "info": "Membre du groupe RN"
   },
   "Éric Zemmour": {
     "parti": "Reconquête",
@@ -34,29 +239,1059 @@
     "fonction": "Députée européenne",
     "info": "Vice-présidente de Reconquête, nièce de Marine Le Pen"
   },
+  "Guillaume Peltier": {
+    "parti": "Reconquête",
+    "fonction": "Vice-président de Reconquête",
+    "info": "Ancien vice-président des Républicains"
+  },
+  "Nicolas Bay": {
+    "parti": "Reconquête",
+    "fonction": "Vice-président de Reconquête",
+    "info": "Transfuge du RN, député européen"
+  },
+  "Jérôme Rivière": {
+    "parti": "Reconquête",
+    "fonction": "Vice-président de Reconquête",
+    "info": "Ancien député LR des Alpes-Maritimes"
+  },
+  "Laurence Trochu": {
+    "parti": "Reconquête",
+    "fonction": "Députée européenne",
+    "info": "Secrétaire générale de Reconquête"
+  },
+  "Sarah Knafo": {
+    "parti": "Reconquête",
+    "fonction": "Députée européenne",
+    "info": "Conseillère d'Éric Zemmour"
+  },
+  "Guillaume Bigot": {
+    "parti": "Reconquête",
+    "fonction": "Porte-parole de Reconquête",
+    "info": "Essayiste et politologue"
+  },
+  "Stanislas Rigault": {
+    "parti": "Reconquête",
+    "fonction": "Président de Génération Z",
+    "info": "Mouvement de jeunesse de Reconquête"
+  },
+  "Thaïs d'Escufon": {
+    "parti": "Reconquête",
+    "fonction": "Porte-parole de Génération Z",
+    "info": "Figure de la jeunesse de Reconquête"
+  },
+  "Philippe de Villiers": {
+    "parti": "Indépendant (proche Reconquête)",
+    "fonction": "Ancien député européen",
+    "info": "Fondateur du Mouvement pour la France, soutien de Zemmour"
+  },
+  "Jean Messiha": {
+    "parti": "Reconquête",
+    "fonction": "Porte-parole de Reconquête",
+    "info": "Ancien cadre du RN, haut fonctionnaire"
+  },
+  "Damien Rieu": {
+    "parti": "Reconquête",
+    "fonction": "Cadre de Reconquête",
+    "info": "Ancien membre de Génération Identitaire"
+  },
+  "Julien Rochedy": {
+    "parti": "Indépendant (proche Reconquête)",
+    "fonction": "Essayiste",
+    "info": "Ancien président du FNJ"
+  },
+  "Charlotte d'Ornellas": {
+    "parti": "Reconquête",
+    "fonction": "Journaliste et cadre",
+    "info": "Chroniqueuse, proche de Reconquête"
+  },
+  "François Bousquet": {
+    "parti": "Reconquête",
+    "fonction": "Directeur de campagne 2022",
+    "info": "Rédacteur en chef d'Éléments"
+  },
+  "Jean-Luc Mélenchon": {
+    "parti": "La France Insoumise",
+    "fonction": "Député des Bouches-du-Rhône",
+    "info": "Fondateur de LFI, candidat présidentielle 2022"
+  },
+  "Manuel Bompard": {
+    "parti": "La France Insoumise",
+    "fonction": "Député des Bouches-du-Rhône",
+    "info": "Coordinateur national de LFI"
+  },
+  "Mathilde Panot": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée du Val-de-Marne",
+    "info": "Présidente du groupe LFI à l'Assemblée"
+  },
+  "Clémence Guetté": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée du Val-de-Marne",
+    "info": "Vice-présidente du groupe LFI"
+  },
+  "Adrien Quatennens": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Nord",
+    "info": "Ancien coordinateur de LFI"
+  },
+  "Alexis Corbière": {
+    "parti": "La France Insoumise",
+    "fonction": "Député de Seine-Saint-Denis",
+    "info": "Porte-parole historique de LFI"
+  },
+  "Éric Coquerel": {
+    "parti": "La France Insoumise",
+    "fonction": "Député de Seine-Saint-Denis",
+    "info": "Président de la commission des Finances"
+  },
+  "Danièle Obono": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de Paris",
+    "info": "Figure de l'aile gauche de LFI"
+  },
+  "Clémentine Autain": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de Seine-Saint-Denis",
+    "info": "Féministe, figure historique de la gauche radicale"
+  },
+  "Raquel Garrido": {
+    "parti": "La France Insoumise",
+    "fonction": "Porte-parole de LFI",
+    "info": "Avocate, chroniqueuse"
+  },
+  "Bastien Lachaud": {
+    "parti": "La France Insoumise",
+    "fonction": "Député de Seine-Saint-Denis",
+    "info": "Membre du groupe LFI"
+  },
+  "Ugo Bernalicis": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Nord",
+    "info": "Spécialiste des questions juridiques"
+  },
+  "Antoine Léaument": {
+    "parti": "La France Insoumise",
+    "fonction": "Député de l'Essonne",
+    "info": "Trésorier du groupe LFI"
+  },
+  "Louis Boyard": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Val-de-Marne",
+    "info": "Figure de la jeunesse de LFI"
+  },
+  "Aurélien Le Coq": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Calvados",
+    "info": "Membre du groupe LFI"
+  },
+  "Rachel Keke": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée du Val-de-Marne",
+    "info": "Ancienne femme de chambre, syndicaliste"
+  },
+  "Nadège Abomangoli": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de Seine-Saint-Denis",
+    "info": "Membre du groupe LFI"
+  },
+  "Hendrik Davi": {
+    "parti": "La France Insoumise",
+    "fonction": "Député des Bouches-du-Rhône",
+    "info": "Écologue, membre du groupe LFI"
+  },
+  "Alma Dufour": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de Seine-et-Marne",
+    "info": "Militante écologiste"
+  },
+  "Sébastien Delogu": {
+    "parti": "La France Insoumise",
+    "fonction": "Député des Bouches-du-Rhône",
+    "info": "Membre du groupe LFI"
+  },
+  "Thomas Portes": {
+    "parti": "La France Insoumise",
+    "fonction": "Député de Seine-Saint-Denis",
+    "info": "Membre du groupe LFI"
+  },
+  "Marianne Maximi": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de l'Oise",
+    "info": "Membre du groupe LFI"
+  },
+  "Carlos Martens Bilongo": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Val-d'Oise",
+    "info": "Membre du groupe LFI"
+  },
+  "Farida Amrani": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de l'Essonne",
+    "info": "Membre du groupe LFI"
+  },
+  "Sophia Chikirou": {
+    "parti": "La France Insoumise",
+    "fonction": "Directrice de campagne 2022",
+    "info": "Stratège en communication"
+  },
+  "Charlotte Leduc": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée du Loiret",
+    "info": "Membre du groupe LFI"
+  },
+  "Élisa Martin": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de l'Isère",
+    "info": "Membre du groupe LFI"
+  },
+  "Aurélien Saintoul": {
+    "parti": "La France Insoumise",
+    "fonction": "Député des Hauts-de-Seine",
+    "info": "Membre du groupe LFI"
+  },
+  "Manon Meunier": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de Haute-Vienne",
+    "info": "Membre du groupe LFI"
+  },
+  "Sylvie Ferrer": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de l'Hérault",
+    "info": "Membre du groupe LFI"
+  },
+  "Andrée Taurinya": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de l'Ariège",
+    "info": "Membre du groupe LFI"
+  },
+  "Pascale Martin": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée de Loire-Atlantique",
+    "info": "Membre du groupe LFI"
+  },
+  "Jean-François Coulomme": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Finistère",
+    "info": "Membre du groupe LFI"
+  },
+  "Christophe Bex": {
+    "parti": "La France Insoumise",
+    "fonction": "Député du Val-de-Marne",
+    "info": "Membre du groupe LFI"
+  },
+  "Emmanuel Maurel": {
+    "parti": "La France Insoumise (apparenté)",
+    "fonction": "Député européen",
+    "info": "Fondateur de Gauche Républicaine et Socialiste"
+  },
+  "Younous Omarjee": {
+    "parti": "La France Insoumise",
+    "fonction": "Député européen",
+    "info": "Président de la commission du développement régional au PE"
+  },
+  "Manon Aubry": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée européenne",
+    "info": "Co-présidente du groupe GUE/NGL au Parlement européen"
+  },
+  "Leïla Chaibi": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée européenne",
+    "info": "Membre du groupe GUE/NGL"
+  },
+  "Anne-Sophie Pelletier": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée européenne",
+    "info": "Membre du groupe GUE/NGL"
+  },
+  "Emmanuel Macron": {
+    "parti": "Renaissance",
+    "fonction": "Président de la République",
+    "info": "Élu en 2017 et 2022, fondateur d'En Marche"
+  },
+  "Gabriel Attal": {
+    "parti": "Renaissance",
+    "fonction": "Premier ministre",
+    "info": "En fonction depuis janvier 2024, ancien ministre de l'Éducation"
+  },
+  "Élisabeth Borne": {
+    "parti": "Renaissance",
+    "fonction": "Ancienne Première ministre",
+    "info": "Première ministre 2022-2024, députée du Calvados"
+  },
+  "Bruno Le Maire": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de l'Économie",
+    "info": "En poste depuis 2017, ancien LR"
+  },
+  "Gérald Darmanin": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de l'Intérieur",
+    "info": "En poste depuis 2020, ancien LR"
+  },
+  "Sébastien Lecornu": {
+    "parti": "Renaissance",
+    "fonction": "Ministre des Armées",
+    "info": "En poste depuis 2022"
+  },
+  "Catherine Colonna": {
+    "parti": "Renaissance",
+    "fonction": "Ancienne ministre des Affaires étrangères",
+    "info": "Ministre 2022-2024"
+  },
+  "Éric Dupond-Moretti": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de la Justice",
+    "info": "Avocat, en poste depuis 2020"
+  },
+  "Olivier Véran": {
+    "parti": "Renaissance",
+    "fonction": "Ancien ministre de la Santé",
+    "info": "Ministre 2020-2022, porte-parole du gouvernement"
+  },
+  "Olivier Dussopt": {
+    "parti": "Renaissance",
+    "fonction": "Ancien ministre du Travail",
+    "info": "Ministre 2022-2024, réforme des retraites"
+  },
+  "Pap Ndiaye": {
+    "parti": "Renaissance",
+    "fonction": "Ancien ministre de l'Éducation",
+    "info": "Ministre 2022-2023, historien"
+  },
+  "Amélie Oudea-Castéra": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de l'Éducation et des Sports",
+    "info": "En poste depuis 2024"
+  },
+  "Marc Fesneau": {
+    "parti": "MoDem (majorité présidentielle)",
+    "fonction": "Ministre de l'Agriculture",
+    "info": "En poste depuis 2022"
+  },
+  "Christophe Béchu": {
+    "parti": "Horizons (majorité présidentielle)",
+    "fonction": "Ministre de la Transition écologique",
+    "info": "Maire d'Angers"
+  },
+  "Stéphane Sejourne": {
+    "parti": "Renaissance",
+    "fonction": "Ministre des Affaires étrangères",
+    "info": "Ancien député européen, compagnon de Gabriel Attal"
+  },
+  "Aurélien Rousseau": {
+    "parti": "Renaissance",
+    "fonction": "Ancien ministre de la Santé",
+    "info": "Ministre 2023-2024, démissionnaire"
+  },
+  "Sylvie Retailleau": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de l'Enseignement supérieur",
+    "info": "Ancienne présidente d'université"
+  },
+  "Yaël Braun-Pivet": {
+    "parti": "Renaissance",
+    "fonction": "Présidente de l'Assemblée nationale",
+    "info": "Députée des Yvelines, élue en 2022"
+  },
+  "Stéphane Travert": {
+    "parti": "Renaissance",
+    "fonction": "Député de la Manche",
+    "info": "Ancien ministre de l'Agriculture"
+  },
+  "Christophe Castaner": {
+    "parti": "Renaissance",
+    "fonction": "Député des Alpes-de-Haute-Provence",
+    "info": "Ancien ministre de l'Intérieur, ancien délégué général LREM"
+  },
+  "Richard Ferrand": {
+    "parti": "Renaissance",
+    "fonction": "Ancien président de l'Assemblée nationale",
+    "info": "Député du Finistère, secrétaire général fondateur LREM"
+  },
+  "Stanislas Guerini": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de la Transformation publique",
+    "info": "Ancien délégué général de LREM"
+  },
+  "Aurélien Taché": {
+    "parti": "Renaissance",
+    "fonction": "Député du Val-d'Oise",
+    "info": "Spécialiste des questions d'intégration"
+  },
+  "Olivia Grégoire": {
+    "parti": "Renaissance",
+    "fonction": "Ministre des PME et du Commerce",
+    "info": "Ancienne porte-parole du gouvernement"
+  },
+  "Marlene Schiappa": {
+    "parti": "Renaissance",
+    "fonction": "Ancienne ministre",
+    "info": "Ministre déléguée 2017-2022, députée européenne"
+  },
+  "Clément Beaune": {
+    "parti": "Renaissance",
+    "fonction": "Ministre des Transports",
+    "info": "Ancien secrétaire d'État aux Affaires européennes"
+  },
+  "Jean-Noël Barrot": {
+    "parti": "MoDem (majorité présidentielle)",
+    "fonction": "Ministre de l'Europe",
+    "info": "Député des Yvelines"
+  },
+  "Roland Lescure": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de l'Industrie",
+    "info": "Député des Français d'Amérique du Nord"
+  },
+  "Prisca Thevenot": {
+    "parti": "Renaissance",
+    "fonction": "Porte-parole du gouvernement",
+    "info": "Députée des Hauts-de-Seine"
+  },
+  "Sacha Houlié": {
+    "parti": "Renaissance",
+    "fonction": "Député de la Vienne",
+    "info": "Rapporteur de la loi immigration"
+  },
+  "Aurore Bergé": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de la Solidarité",
+    "info": "Députée des Yvelines, ancienne présidente du groupe LREM"
+  },
+  "Gilles Le Gendre": {
+    "parti": "Renaissance",
+    "fonction": "Député de Paris",
+    "info": "Ancien président du groupe LREM"
+  },
+  "Hugues Renson": {
+    "parti": "Renaissance",
+    "fonction": "Député de Paris",
+    "info": "Vice-président de l'Assemblée nationale"
+  },
+  "Pieyre-Alexandre Anglade": {
+    "parti": "Renaissance",
+    "fonction": "Député des Français de l'étranger",
+    "info": "Membre du groupe Renaissance"
+  },
+  "Jean-René Cazeneuve": {
+    "parti": "Renaissance",
+    "fonction": "Député du Gers",
+    "info": "Président de la commission des Finances"
+  },
+  "Guillaume Kasbarian": {
+    "parti": "Renaissance",
+    "fonction": "Député d'Eure-et-Loir",
+    "info": "Rapporteur général du budget"
+  },
+  "Maud Bregeon": {
+    "parti": "Renaissance",
+    "fonction": "Porte-parole du gouvernement",
+    "info": "Députée des Hauts-de-Seine"
+  },
+  "Brigitte Macron": {
+    "parti": "Renaissance (Première dame)",
+    "fonction": "Première dame de France",
+    "info": "Épouse d'Emmanuel Macron, ancienne enseignante"
+  },
+  "Alexis Kohler": {
+    "parti": "Renaissance (administration)",
+    "fonction": "Secrétaire général de l'Élysée",
+    "info": "Bras droit d'Emmanuel Macron"
+  },
+  "Ismaël Emelien": {
+    "parti": "Renaissance (conseiller)",
+    "fonction": "Ancien conseiller spécial",
+    "info": "Stratège de campagne 2017"
+  },
+  "Sibeth Ndiaye": {
+    "parti": "Renaissance",
+    "fonction": "Ancienne porte-parole du gouvernement",
+    "info": "Porte-parole 2019-2020"
+  },
+  "Benjamin Griveaux": {
+    "parti": "Renaissance",
+    "fonction": "Ancien porte-parole du gouvernement",
+    "info": "Porte-parole 2017-2019"
+  },
+  "Julien Denormandie": {
+    "parti": "Renaissance",
+    "fonction": "Ancien ministre de l'Agriculture",
+    "info": "Ministre 2020-2022"
+  },
+  "Jean-Michel Blanquer": {
+    "parti": "Renaissance",
+    "fonction": "Ancien ministre de l'Éducation",
+    "info": "Ministre 2017-2022"
+  },
+  "Françoise Nyssen": {
+    "parti": "Renaissance",
+    "fonction": "Ancienne ministre de la Culture",
+    "info": "Ministre 2017-2018, éditrice"
+  },
+  "Nicole Belloubet": {
+    "parti": "Renaissance",
+    "fonction": "Ministre de l'Éducation",
+    "info": "Ancienne ministre de la Justice"
+  },
+  "François Bayrou": {
+    "parti": "MoDem (allié Renaissance)",
+    "fonction": "Président du MoDem",
+    "info": "Maire de Pau, haut-commissaire au Plan"
+  },
+  "Édouard Philippe": {
+    "parti": "Horizons (allié Renaissance)",
+    "fonction": "Président d'Horizons",
+    "info": "Premier ministre 2017-2020, maire du Havre"
+  },
+  "Laurent Marcangeli": {
+    "parti": "Horizons",
+    "fonction": "Député de Corse-du-Sud",
+    "info": "Président du groupe Horizons"
+  },
+  "Jean-Christophe Lagarde": {
+    "parti": "UDI (allié Renaissance)",
+    "fonction": "Président de l'UDI",
+    "info": "Député de Seine-Saint-Denis"
+  },
+  "Patrick Mignola": {
+    "parti": "MoDem",
+    "fonction": "Président du groupe MoDem",
+    "info": "Député de Savoie"
+  },
+  "Erwan Balanant": {
+    "parti": "MoDem",
+    "fonction": "Député du Finistère",
+    "info": "Vice-président du groupe MoDem"
+  },
   "Éric Ciotti": {
     "parti": "Les Républicains",
     "fonction": "Président de LR",
     "info": "Député des Alpes-Maritimes, élu président en 2022"
+  },
+  "Christian Jacob": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien président de LR",
+    "info": "Député de Seine-et-Marne, président 2019-2022"
   },
   "Valérie Pécresse": {
     "parti": "Les Républicains",
     "fonction": "Présidente de la région Île-de-France",
     "info": "Candidate présidentielle 2022"
   },
+  "Laurent Wauquiez": {
+    "parti": "Les Républicains",
+    "fonction": "Président de la région Auvergne-Rhône-Alpes",
+    "info": "Ancien président de LR 2017-2019"
+  },
+  "Xavier Bertrand": {
+    "parti": "Les Républicains",
+    "fonction": "Président de la région Hauts-de-France",
+    "info": "Ancien ministre, candidat primaire 2021"
+  },
+  "Aurélien Pradé": {
+    "parti": "Les Républicains",
+    "fonction": "Député du Lot",
+    "info": "Secrétaire général de LR"
+  },
+  "Olivier Marleix": {
+    "parti": "Les Républicains",
+    "fonction": "Député d'Eure-et-Loir",
+    "info": "Président du groupe LR à l'Assemblée"
+  },
+  "Annie Genevard": {
+    "parti": "Les Républicains",
+    "fonction": "Députée du Doubs",
+    "info": "Vice-présidente de l'Assemblée nationale"
+  },
+  "Rachida Dati": {
+    "parti": "Les Républicains",
+    "fonction": "Maire du 7e arrondissement de Paris",
+    "info": "Députée européenne, ancienne ministre"
+  },
+  "François-Xavier Bellamy": {
+    "parti": "Les Républicains",
+    "fonction": "Député européen",
+    "info": "Tête de liste LR aux européennes 2019, philosophe"
+  },
+  "Nadine Morano": {
+    "parti": "Les Républicains",
+    "fonction": "Députée européenne",
+    "info": "Ancienne ministre, figure de la droite identitaire"
+  },
+  "Michel Barnier": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien commissaire européen",
+    "info": "Négociateur du Brexit, candidat primaire 2021"
+  },
+  "Bruno Retailleau": {
+    "parti": "Les Républicains",
+    "fonction": "Président du groupe LR au Sénat",
+    "info": "Sénateur de Vendée"
+  },
+  "Gérard Larcher": {
+    "parti": "Les Républicains",
+    "fonction": "Président du Sénat",
+    "info": "Sénateur des Yvelines, président depuis 2014"
+  },
+  "Damien Abad": {
+    "parti": "Les Républicains",
+    "fonction": "Député de l'Ain",
+    "info": "Ancien président du groupe LR, ancien ministre"
+  },
+  "Guillaume Peltier": {
+    "parti": "Les Républicains (transfuge)",
+    "fonction": "Ancien vice-président de LR",
+    "info": "Parti chez Reconquête en 2021"
+  },
+  "Aurélie Trouvain": {
+    "parti": "Les Républicains",
+    "fonction": "Députée de l'Oise",
+    "info": "Membre du groupe LR"
+  },
+  "Patrick Hetzel": {
+    "parti": "Les Républicains",
+    "fonction": "Député du Bas-Rhin",
+    "info": "Membre du groupe LR"
+  },
+  "Mansour Kamardine": {
+    "parti": "Les Républicains",
+    "fonction": "Député de Mayotte",
+    "info": "Membre du groupe LR"
+  },
+  "Nicolas Sarkozy": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien Président de la République",
+    "info": "Président 2007-2012, fondateur de l'UMP"
+  },
+  "François Fillon": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 2007-2012, candidat présidentielle 2017"
+  },
   "Olivier Faure": {
     "parti": "Parti Socialiste",
     "fonction": "Premier secrétaire du PS",
     "info": "Député de Seine-et-Marne, élu en 2018"
+  },
+  "François Hollande": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien Président de la République",
+    "info": "Président 2012-2017, député de Corrèze"
+  },
+  "Manuel Valls": {
+    "parti": "Parti Socialiste (transfuge)",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 2014-2016, soutien de Macron"
+  },
+  "Ségolène Royal": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancienne ministre",
+    "info": "Candidate présidentielle 2007, ministre 2014-2017"
+  },
+  "Anne Hidalgo": {
+    "parti": "Parti Socialiste",
+    "fonction": "Maire de Paris",
+    "info": "Candidate présidentielle 2022"
+  },
+  "Martine Aubry": {
+    "parti": "Parti Socialiste",
+    "fonction": "Maire de Lille",
+    "info": "Ancienne première secrétaire du PS"
+  },
+  "Boris Vallaud": {
+    "parti": "Parti Socialiste",
+    "fonction": "Député des Landes",
+    "info": "Président du groupe socialiste à l'Assemblée"
+  },
+  "Valérie Rabault": {
+    "parti": "Parti Socialiste",
+    "fonction": "Députée de Tarn-et-Garonne",
+    "info": "Ancienne présidente du groupe PS"
+  },
+  "Lamia El Aaraje": {
+    "parti": "Parti Socialiste",
+    "fonction": "Députée du Val-de-Marne",
+    "info": "Membre du groupe socialiste"
+  },
+  "Raphaël Glucksmann": {
+    "parti": "Place Publique (allié PS)",
+    "fonction": "Député européen",
+    "info": "Tête de liste PS-PP aux européennes 2019, essayiste"
+  },
+  "Carole Delga": {
+    "parti": "Parti Socialiste",
+    "fonction": "Présidente de la région Occitanie",
+    "info": "Ancienne ministre"
+  },
+  "Stéphane Le Foll": {
+    "parti": "Parti Socialiste",
+    "fonction": "Maire du Mans",
+    "info": "Ancien ministre de l'Agriculture"
+  },
+  "Benoît Hamon": {
+    "parti": "Génération.s (ex-PS)",
+    "fonction": "Fondateur de Génération.s",
+    "info": "Candidat présidentielle 2017, ancien ministre"
   },
   "Marine Tondelier": {
     "parti": "Europe Écologie Les Verts",
     "fonction": "Secrétaire nationale d'EELV",
     "info": "Élue en 2022, maire-adjointe d'Hénin-Beaumont"
   },
+  "Yannick Jadot": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Député européen",
+    "info": "Candidat présidentielle 2022"
+  },
+  "Julien Bayou": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Député de Paris",
+    "info": "Ancien secrétaire national d'EELV"
+  },
+  "David Cormand": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Député européen",
+    "info": "Ancien secrétaire national d'EELV"
+  },
+  "Karima Delli": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Députée européenne",
+    "info": "Présidente de la commission des transports au PE"
+  },
+  "Jeanne Barseghian": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Maire de Strasbourg",
+    "info": "Élue en 2020"
+  },
+  "Grégory Doucet": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Maire de Lyon",
+    "info": "Élu en 2020"
+  },
+  "Pierre Hurmic": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Maire de Bordeaux",
+    "info": "Élu en 2020"
+  },
+  "Michaël Delafosse": {
+    "parti": "Parti Socialiste",
+    "fonction": "Maire de Montpellier",
+    "info": "Élu en 2020"
+  },
+  "Eva Sas": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Députée de l'Essonne",
+    "info": "Ancienne vice-présidente de l'Assemblée"
+  },
+  "Marie Toussaint": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Députée européenne",
+    "info": "Tête de liste EELV aux européennes 2024"
+  },
   "Fabien Roussel": {
     "parti": "Parti Communiste Français",
     "fonction": "Secrétaire national du PCF",
     "info": "Député du Nord, candidat présidentielle 2022"
+  },
+  "Pierre Laurent": {
+    "parti": "Parti Communiste Français",
+    "fonction": "Sénateur de Paris",
+    "info": "Ancien secrétaire national du PCF"
+  },
+  "Nicolas Dupont-Aignan": {
+    "parti": "Debout la France",
+    "fonction": "Président de DLF",
+    "info": "Député de l'Essonne, candidat présidentielle 2022"
+  },
+  "Jean Lassalle": {
+    "parti": "Résistons!",
+    "fonction": "Fondateur de Résistons!",
+    "info": "Député des Pyrénées-Atlantiques, candidat présidentielle 2022"
+  },
+  "Jean-Marie Le Pen": {
+    "parti": "Front National (fondateur)",
+    "fonction": "Fondateur du FN",
+    "info": "Président du FN 1972-2011, candidat présidentielle 5 fois"
+  },
+  "Florian Philippot": {
+    "parti": "Les Patriotes",
+    "fonction": "Président des Patriotes",
+    "info": "Ancien vice-président du FN, candidat présidentielle 2022"
+  },
+  "Arnaud Montebourg": {
+    "parti": "Indépendant (ex-PS)",
+    "fonction": "Ancien ministre de l'Économie",
+    "info": "Ministre 2012-2014, candidat primaire PS 2017"
+  },
+  "Christiane Taubira": {
+    "parti": "Indépendante (ex-radicaux de gauche)",
+    "fonction": "Ancienne ministre de la Justice",
+    "info": "Ministre 2012-2016, candidate présidentielle 2022"
+  },
+  "Nathalie Arthaud": {
+    "parti": "Lutte Ouvrière",
+    "fonction": "Porte-parole de LO",
+    "info": "Candidate présidentielle 2012, 2017, 2022"
+  },
+  "Philippe Poutou": {
+    "parti": "Nouveau Parti Anticapitaliste",
+    "fonction": "Porte-parole du NPA",
+    "info": "Candidat présidentielle 2012, 2017, 2022"
+  },
+  "Nathalie Loiseau": {
+    "parti": "Renaissance",
+    "fonction": "Députée européenne",
+    "info": "Tête de liste LREM aux européennes 2019"
+  },
+  "Aurélie Filippetti": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancienne ministre de la Culture",
+    "info": "Ministre 2012-2014"
+  },
+  "Najat Vallaud-Belkacem": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancienne ministre de l'Éducation",
+    "info": "Ministre 2014-2017"
+  },
+  "Myriam El Khomri": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancienne ministre du Travail",
+    "info": "Ministre 2015-2017, loi Travail"
+  },
+  "Marisol Touraine": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancienne ministre de la Santé",
+    "info": "Ministre 2012-2017"
+  },
+  "Bernard Cazeneuve": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 2016-2017"
+  },
+  "Jean-Yves Le Drian": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien ministre des Affaires étrangères",
+    "info": "Ministre 2017-2022"
+  },
+  "Gérard Collomb": {
+    "parti": "Indépendant (ex-PS)",
+    "fonction": "Maire de Lyon",
+    "info": "Ancien ministre de l'Intérieur 2017-2018"
+  },
+  "Roselyne Bachelot": {
+    "parti": "Les Républicains",
+    "fonction": "Ancienne ministre de la Culture",
+    "info": "Ministre 2020-2022, ancienne ministre de la Santé"
+  },
+  "Nadia Hai": {
+    "parti": "Renaissance",
+    "fonction": "Ancienne ministre de la Ville",
+    "info": "Ministre 2020-2022"
+  },
+  "Sarah El Hairy": {
+    "parti": "MoDem",
+    "fonction": "Ministre de l'Enfance",
+    "info": "En poste depuis 2024"
+  },
+  "Dominique de Villepin": {
+    "parti": "Indépendant (ex-UMP)",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 2005-2007"
+  },
+  "Alain Juppé": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 1995-1997, maire de Bordeaux"
+  },
+  "Jean-François Copé": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien président de l'UMP",
+    "info": "Président 2012-2014, maire de Meaux"
+  },
+  "Nathalie Kosciusko-Morizet": {
+    "parti": "Les Républicains",
+    "fonction": "Ancienne ministre",
+    "info": "Ministre 2010-2012, candidate à la mairie de Paris"
+  },
+  "Henri Guaino": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien conseiller de Sarkozy",
+    "info": "Plume de Nicolas Sarkozy"
+  },
+  "Luc Ferry": {
+    "parti": "Indépendant",
+    "fonction": "Ancien ministre de l'Éducation",
+    "info": "Ministre 2002-2004, philosophe"
+  },
+  "Jack Lang": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien ministre de la Culture",
+    "info": "Ministre 1981-1986 et 1988-1993"
+  },
+  "Lionel Jospin": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 1997-2002, candidat présidentielle 2002"
+  },
+  "Dominique Strauss-Kahn": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien directeur du FMI",
+    "info": "Directeur FMI 2007-2011, ancien ministre"
+  },
+  "Michel Rocard": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien Premier ministre",
+    "info": "Premier ministre 1988-1991 (décédé 2016)"
+  },
+  "Jacques Chirac": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien Président de la République",
+    "info": "Président 1995-2007 (décédé 2019)"
+  },
+  "François Mitterrand": {
+    "parti": "Parti Socialiste",
+    "fonction": "Ancien Président de la République",
+    "info": "Président 1981-1995 (décédé 1996)"
+  },
+  "Valéry Giscard d'Estaing": {
+    "parti": "UDF",
+    "fonction": "Ancien Président de la République",
+    "info": "Président 1974-1981 (décédé 2020)"
+  },
+  "Valérie Hayer": {
+    "parti": "Renaissance",
+    "fonction": "Députée européenne",
+    "info": "Tête de liste Renaissance aux européennes 2024"
+  },
+  "Rima Hassan": {
+    "parti": "La France Insoumise",
+    "fonction": "Députée européenne",
+    "info": "Militante pro-palestinienne, élue en 2024"
+  },
+  "Aymeric Caron": {
+    "parti": "La France Insoumise",
+    "fonction": "Député de Paris",
+    "info": "Journaliste, militant végan et animaliste"
+  },
+  "Aurore Lalucq": {
+    "parti": "Place Publique",
+    "fonction": "Députée européenne",
+    "info": "Économiste, spécialiste des questions financières"
+  },
+  "Ian Brossat": {
+    "parti": "Parti Communiste Français",
+    "fonction": "Député européen",
+    "info": "Adjoint au logement à Paris"
+  },
+  "Damien Carrière": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Député européen",
+    "info": "Membre du groupe Verts/ALE"
+  },
+  "Mounir Satouri": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Député européen",
+    "info": "Spécialiste des droits humains"
+  },
+  "François Asselineau": {
+    "parti": "Union Populaire Républicaine",
+    "fonction": "Président de l'UPR",
+    "info": "Candidat présidentielle 2017 et 2022, eurosceptique"
+  },
+  "Sandrine Rousseau": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Députée de Paris",
+    "info": "Figure de l'aile gauche d'EELV, économiste"
+  },
+  "Cécile Duflot": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Ancienne ministre du Logement",
+    "info": "Ministre 2012-2014, ancienne secrétaire nationale EELV"
+  },
+  "Noël Mamère": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Ancien député",
+    "info": "Maire de Bègles, candidat présidentielle 2002"
+  },
+  "Dominique Voynet": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Ancienne ministre",
+    "info": "Ministre 1997-2001, candidate présidentielle 1995 et 2007"
+  },
+  "José Bové": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Ancien député européen",
+    "info": "Syndicaliste agricole, candidat présidentielle 2007"
+  },
+  "Corinne Lepage": {
+    "parti": "Indépendante",
+    "fonction": "Ancienne ministre de l'Environnement",
+    "info": "Ministre 1995-1997, candidate présidentielle 2002"
+  },
+  "Christine Boutin": {
+    "parti": "Parti Chrétien-Démocrate",
+    "fonction": "Ancienne ministre",
+    "info": "Ministre 2007-2009, candidate présidentielle 2002"
+  },
+  "Marie-George Buffet": {
+    "parti": "Parti Communiste Français",
+    "fonction": "Ancienne ministre",
+    "info": "Ministre 1997-2002, candidate présidentielle 2007"
+  },
+  "Olivier Besancenot": {
+    "parti": "Nouveau Parti Anticapitaliste",
+    "fonction": "Porte-parole du NPA",
+    "info": "Candidat présidentielle 2002 et 2007"
+  },
+  "Arlette Laguiller": {
+    "parti": "Lutte Ouvrière",
+    "fonction": "Ancienne porte-parole de LO",
+    "info": "Candidate présidentielle 6 fois (1974-2007)"
+  },
+  "Bruno Mégret": {
+    "parti": "Mouvement National Républicain",
+    "fonction": "Ancien vice-président du FN",
+    "info": "Dissident du FN en 1998, candidat présidentielle 2002"
+  },
+  "Carl Lang": {
+    "parti": "Parti de la France",
+    "fonction": "Ancien secrétaire général du FN",
+    "info": "Dissident du FN"
+  },
+  "Françoise Grossetête": {
+    "parti": "Les Républicains",
+    "fonction": "Ancienne députée européenne",
+    "info": "Députée européenne 1994-2019"
+  },
+  "Brice Hortefeux": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien ministre de l'Intérieur",
+    "info": "Ministre 2009-2011, député européen"
+  },
+  "Luc Chatel": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien ministre de l'Éducation",
+    "info": "Ministre 2009-2012"
+  },
+  "Xavier Darcos": {
+    "parti": "Les Républicains",
+    "fonction": "Ancien ministre de l'Éducation",
+    "info": "Ministre 2007-2009"
+  },
+  "Christine Lagarde": {
+    "parti": "Les Républicains",
+    "fonction": "Présidente de la BCE",
+    "info": "Ministre de l'Économie 2007-2011, directrice du FMI 2011-2019"
+  },
+  "Michèle Alliot-Marie": {
+    "parti": "Les Républicains",
+    "fonction": "Ancienne ministre",
+    "info": "Ministre de la Défense, Intérieur, Affaires étrangères"
+  },
+  "Rama Yade": {
+    "parti": "Indépendante (ex-UMP)",
+    "fonction": "Ancienne secrétaire d'État",
+    "info": "Secrétaire d'État 2007-2010"
   }
 }
