@@ -1,1 +1,62 @@
-{}
+{
+  "Marine Le Pen": {
+    "parti": "Rassemblement National",
+    "fonction": "Députée du Pas-de-Calais",
+    "info": "Présidente d'honneur du RN, candidate présidentielle 2022"
+  },
+  "Jordan Bardella": {
+    "parti": "Rassemblement National",
+    "fonction": "Président du RN",
+    "info": "Député européen, élu président en 2022"
+  },
+  "Jean-Luc Mélenchon": {
+    "parti": "La France Insoumise",
+    "fonction": "Député des Bouches-du-Rhône",
+    "info": "Fondateur de LFI, candidat présidentielle 2022"
+  },
+  "Emmanuel Macron": {
+    "parti": "Renaissance",
+    "fonction": "Président de la République",
+    "info": "Élu en 2017 et 2022, fondateur d'En Marche"
+  },
+  "Gabriel Attal": {
+    "parti": "Renaissance",
+    "fonction": "Premier ministre",
+    "info": "En fonction depuis janvier 2024, ancien ministre de l'Éducation"
+  },
+  "Éric Zemmour": {
+    "parti": "Reconquête",
+    "fonction": "Président de Reconquête",
+    "info": "Candidat présidentielle 2022, essayiste"
+  },
+  "Marion Maréchal": {
+    "parti": "Reconquête",
+    "fonction": "Députée européenne",
+    "info": "Vice-présidente de Reconquête, nièce de Marine Le Pen"
+  },
+  "Éric Ciotti": {
+    "parti": "Les Républicains",
+    "fonction": "Président de LR",
+    "info": "Député des Alpes-Maritimes, élu président en 2022"
+  },
+  "Valérie Pécresse": {
+    "parti": "Les Républicains",
+    "fonction": "Présidente de la région Île-de-France",
+    "info": "Candidate présidentielle 2022"
+  },
+  "Olivier Faure": {
+    "parti": "Parti Socialiste",
+    "fonction": "Premier secrétaire du PS",
+    "info": "Député de Seine-et-Marne, élu en 2018"
+  },
+  "Marine Tondelier": {
+    "parti": "Europe Écologie Les Verts",
+    "fonction": "Secrétaire nationale d'EELV",
+    "info": "Élue en 2022, maire-adjointe d'Hénin-Beaumont"
+  },
+  "Fabien Roussel": {
+    "parti": "Parti Communiste Français",
+    "fonction": "Secrétaire national du PCF",
+    "info": "Député du Nord, candidat présidentielle 2022"
+  }
+}
