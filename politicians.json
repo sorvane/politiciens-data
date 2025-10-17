@@ -240,9 +240,9 @@
     "info": "Vice-présidente de Reconquête, nièce de Marine Le Pen"
   },
   "Guillaume Peltier": {
-    "parti": "Reconquête",
-    "fonction": "Vice-président de Reconquête",
-    "info": "Ancien vice-président des Républicains"
+    "parti": "Les Républicains (transfuge)",
+    "fonction": "Ancien vice-président de LR",
+    "info": "Parti chez Reconquête en 2021"
   },
   "Nicolas Bay": {
     "parti": "Reconquête",
@@ -838,11 +838,6 @@
     "parti": "Les Républicains",
     "fonction": "Député de l'Ain",
     "info": "Ancien président du groupe LR, ancien ministre"
-  },
-  "Guillaume Peltier": {
-    "parti": "Les Républicains (transfuge)",
-    "fonction": "Ancien vice-président de LR",
-    "info": "Parti chez Reconquête en 2021"
   },
   "Aurélie Trouvain": {
     "parti": "Les Républicains",
